@@ -1,6 +1,6 @@
 # Invoice Data Pipeline
 
-I built this project to learn how data engineers turn messy raw data into clean tables and useful reports. It takes a small file of invoices, tidies it up, and answers simple business questions like "what is the total amount in rupees for each city, biggest first"?
+I built this project to learn how data engineers turn messy raw data into clean tables and useful reports. It takes a small file of invoices, tidies it up, and answers simple business questions like "what is the total amount in rupees for each city, biggest first?"
 
 ## The problem
 
