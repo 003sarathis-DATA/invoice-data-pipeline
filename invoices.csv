@@ -1,0 +1,9 @@
+invoice_id,customer,city,amount,currency,invoice_date
+INV001, ravi ,Chennai,500,USD,2026-10-01
+INV002,PRIYA,Madurai,300,EUR,2026-10-03
+INV003,Arun,Chennai,,USD,2026-10-05
+INV001, ravi ,Chennai,500,USD,2026-10-01
+INV004,Meena,Salem,450,INR,2026-10-12
+INV005,priya,Madurai,700,USD,2026-11-02
+INV006,Kiran,Salem,250,EUR,2026-11-04
+INV007,ARUN,Chennai,900,INR,2026-11-05
